@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="G4-ok.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="81.25"
+     inkscape:cy="110.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1877"
+       style="color:#000000;fill:#000000;stroke:none;stroke-width:0.399997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 25.495304,6.7051262 25.019769,6.858679 24.542926,6.7027145 12.67113,43.072223 l 0.951736,0.309304 11.393929,-34.906351 11.29921,34.936889 0.951561,-0.307266 z" />
+    <path
+       id="path1631"
+       style="color:#000000;fill:#000000;stroke:#fffffb;stroke-width:0.399996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 6.0244739,20.254746 -0.3064391,0.950838 19.3728392,6.236261 0.152961,-0.475419 0.155545,0.475419 18.884501,-6.185101 -0.310573,-0.949288 -18.73154,6.133425 z" />
+    <path
+       id="path1132"
+       style="fill:none;stroke:#000000;stroke-width:0.999992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-0.0084117493"
+       inkscape:transform-center-y="-1.9126559"
+       d="M 13.14711,43.227191 5.8710229,20.730451 25.018552,6.8585272 44.12846,20.781945 36.791505,43.259016 Z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 25.244117,26.966178 13.14711,43.227191"
+       id="path10414" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.999992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 36.791505,43.259015 25.244117,26.966178"
+       id="path1875" />
+  </g>
+</svg>
